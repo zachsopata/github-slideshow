@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Git 'er Dun! 
 Use the left arrow to go back!
